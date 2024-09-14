@@ -6,7 +6,7 @@
 
 I'm Brayan Salgado, a backend developer with experience in developing RESTful APIs, microservices, and production environment setup. With experience in Python, Go, Node.js, and Docker, I have worked on several projects that have significantly improved the platforms I have collaborated with.
 
-- 📫 How to reach me **bryantsalgadonavarro@gmail.com**
+- 📫 How to reach me **binariado@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
