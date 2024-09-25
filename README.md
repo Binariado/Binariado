@@ -24,12 +24,6 @@ I'm Brayan Salgado, a backend developer with experience in developing RESTful AP
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binariado&" alt="binariado" /></p>
 
-
-👨‍💻 All of my projects are available at [https://github.com/Binariado/Binariado/blob/main/PORTAFOLIO.es.md](https://github.com/Binariado/Binariado/blob/main/PORTAFOLIO.es.md)
-
----
-This portfolio is constantly evolving. Feel free to contact me if you want to talk about a project, collaborate on an idea or just chat about technology.
-
 <!--
 **Binariado/Binariado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
