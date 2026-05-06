@@ -1,54 +1,98 @@
 <h1 align="center">Hi 👋, I'm Brayan Salgado</h1>
-<h3 align="center">Backend Developer from Colombia</h3>
+
+<h3 align="center">
+Senior Full Stack & Backend Developer from Colombia
+</h3>
 
 ---
 
-### About me
+## About Me
 
-Backend Developer focused on building scalable systems and production-ready architectures.
+Software developer with experience building scalable platforms, production-ready systems, and cloud-based architectures.
 
-Experience designing and deploying REST APIs, microservices, and cloud-based solutions using Go, Python, and Node.js. Strong background in infrastructure, Docker environments, and performance optimization.
+Strong background in backend development, REST APIs, microservices, Docker environments, and modern web applications using Go, Node.js, TypeScript, Python, and React ecosystems.
 
-I enjoy turning complex problems into simple, reliable systems.
+Experienced leading development teams, designing software architectures, optimizing infrastructure, and deploying applications in production environments.
 
+Focused on creating reliable, maintainable, and scalable solutions.
+
+- 📍 Colombia
 - 📫 Contact: **binariado@gmail.com**
 
 ---
 
-### Core Stack
+## Core Technologies
 
-- Go
-- Python (Django / FastAPI)
+### Backend
+
+- Go (Golang)
 - Node.js (NestJS)
+- Python (Django / FastAPI)
+- PHP
 
-### Infrastructure
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+
+### Infrastructure & Cloud
 
 - Docker
 - Nginx
 - PostgreSQL
+- Firebase
+- AWS
+- Google Cloud
 - Linux
 
 ---
 
-### What I work on
+## What I Work On
 
-- Backend architecture for scalable systems
-- Microservices and distributed systems
-- API design and performance optimization
-- DevOps and production environments
-
----
-
-### Connect with me
-
-<a href="https://www.linkedin.com/in/brayan-salgado-808448111" target="_blank">
-LinkedIn
-</a>
+- Scalable backend architectures
+- REST APIs & microservices
+- Full Stack web applications
+- Cloud infrastructure & deployments
+- DevOps & Docker environments
+- Performance optimization
+- Distributed systems
+- Software architecture
 
 ---
 
-### Stats
+## Current Interests
+
+- Cloud-native systems
+- Scalable infrastructure
+- AI-powered applications
+- Distributed systems
+- System design
+- Software architecture
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/brayan-salgado-808448111" target="_blank">
+    LinkedIn
+  </a>
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binariado&show_icons=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Binariado&show_icons=true&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binariado&layout=compact&hide_border=true" 
+    height="170"
+  />
 </p>
