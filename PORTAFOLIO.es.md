@@ -1,73 +1,73 @@
-# 🚀 Featured Projects
+# 🚀 Proyectos Destacados
 
-## 1. [Goffay — Metrology & Calibration Management Platform](https://goffay.com/go-cal)
+## 1. [Goffay — Plataforma de Gestión Metrológica y Calibraciones](https://goffay.com/go-cal)
 
-**Role:** Full Stack Developer / Team Leader  
-**Technologies:** Django, Node.js, PostgreSQL, Docker, React
+**Rol:** Full Stack Developer / Team Leader  
+**Tecnologías:** Django, Node.js, PostgreSQL, Docker, React
 
-Developed and maintained both backend and frontend components of a large-scale management platform focused on metrology and calibration processes. Led development workflows, coordinated technical decisions, and contributed to the implementation of scalable system architectures.
+Desarrollé y mantuve componentes tanto del backend como del frontend de una plataforma de gran escala enfocada en procesos de metrología y calibración. Lideré flujos de desarrollo, coordiné decisiones técnicas y contribuí en la implementación de arquitecturas escalables.
 
-### Key Contributions
+### Contribuciones Clave
 
-- Designed scalable REST APIs and backend services
-- Implemented microservices architecture for modular functionalities
-- Managed Docker-based development and production environments
-- Participated in deployment and infrastructure processes
-- Led technical coordination and code review processes
+- Diseño de APIs REST y servicios backend escalables
+- Implementación de arquitectura basada en microservicios
+- Gestión de entornos de desarrollo y producción con Docker
+- Participación en procesos de despliegue e infraestructura
+- Coordinación técnica y revisión de código
 
 ---
 
-## 2. [Ruedata — Tire Consumption Analysis Platform](https://ruedata.com)
+## 2. [Ruedata — Plataforma de Análisis de Consumo de Llantas](https://ruedata.com)
 
-**Role:** Backend Developer  
-**Technologies:** Python, Flask, PostgreSQL, Docker
+**Rol:** Backend Developer  
+**Tecnologías:** Python, Flask, PostgreSQL, Docker
 
-Worked on the development and maintenance of backend services for a data analysis platform focused on reducing tire consumption and operational costs through analytics.
+Trabajé en el desarrollo y mantenimiento de servicios backend para una plataforma enfocada en reducir el consumo de llantas y costos operativos mediante análisis de datos.
 
-### Key Contributions
+### Contribuciones Clave
 
-- Developed REST APIs for user and vehicle management
-- Optimized PostgreSQL queries and platform performance
-- Implemented authentication and authorization systems
-- Managed Docker environments and deployment workflows
-- Improved scalability and reliability of backend services
+- Desarrollo de APIs REST para gestión de usuarios y vehículos
+- Optimización de consultas PostgreSQL y rendimiento de la plataforma
+- Implementación de sistemas de autenticación y autorización
+- Gestión de entornos Docker y procesos de despliegue
+- Mejora de escalabilidad y confiabilidad de servicios backend
 
 ---
 
 ## 3. [LAMAC Gestión, Consultoría y Asesoría SAS](https://lamac.com.co)
 
-**Role:** Software Developer / Team Lead  
-**Technologies:** Python, Node.js, PostgreSQL, Docker
+**Rol:** Software Developer / Team Lead  
+**Tecnologías:** Python, Node.js, PostgreSQL, Docker
 
-Led development processes and collaborated in the creation of internal management systems focused on project and client administration.
+Lideré procesos de desarrollo y colaboré en la creación de sistemas internos orientados a la administración de proyectos y clientes.
 
-### Key Contributions
+### Contribuciones Clave
 
-- Designed and implemented REST APIs
-- Developed scalable backend services and microservices
-- Automated deployment workflows using Docker
-- Optimized database queries and backend performance
-- Coordinated development tasks and technical decisions
-
----
-
-## 4. Foundation Administrative System
-
-**Role:** Full Stack Developer  
-**Technologies:** PHP, Laravel, MySQL
-
-Developed and maintained administrative platforms used for internal operational processes and information management.
-
-### Key Contributions
-
-- Developed and improved Laravel-based systems
-- Performed database migrations and maintenance
-- Optimized backend APIs and application performance
-- Implemented new features and operational improvements
+- Diseño e implementación de APIs REST
+- Desarrollo de servicios backend escalables y microservicios
+- Automatización de despliegues utilizando Docker
+- Optimización de consultas y rendimiento en bases de datos
+- Coordinación de tareas de desarrollo y decisiones técnicas
 
 ---
 
-# 📫 Contact
+## 4. Sistema Administrativo Fundación Grupo Estudio
+
+**Rol:** Full Stack Developer  
+**Tecnologías:** PHP, Laravel, MySQL
+
+Desarrollé y mantuve plataformas administrativas utilizadas para procesos internos y gestión de información.
+
+### Contribuciones Clave
+
+- Desarrollo y mejora de sistemas basados en Laravel
+- Migraciones y mantenimiento de bases de datos
+- Optimización de APIs y rendimiento de aplicaciones
+- Implementación de nuevas funcionalidades y mejoras operativas
+
+---
+
+# 📫 Contacto
 
 - **Email:** binariado@gmail.com
 - **LinkedIn:**  
@@ -75,4 +75,4 @@ Developed and maintained administrative platforms used for internal operational 
 
 ---
 
-This portfolio is continuously evolving. Feel free to connect for collaboration, technical discussions, or new opportunities.
+Este portafolio se encuentra en constante evolución. No dudes en contactarme para colaborar, discutir ideas o nuevas oportunidades.
