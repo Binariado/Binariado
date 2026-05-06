@@ -5,8 +5,12 @@ Senior Full Stack & Backend Developer from Colombia
 </h3>
 
 <p align="center">
+  <a href="./PORTAFOLIO.en.md">
+    🇺🇸 English Portfolio
+  </a>
+  •
   <a href="./PORTAFOLIO.es.md">
-    🇪🇸 View Portfolio in Spanish
+    🇪🇸 Portafolio en Español
   </a>
 </p>
 
